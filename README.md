@@ -1,3 +1,5 @@
-# AUGH SNORING BOT
----
-![Maliciously working on this]([https://c8.alamy.com/comp/2BWXAAJ/scheming-villain-emoticon-rubbing-his-hands-2BWXAAJ.jpg](https://thumbs.dreamstime.com/b/emoticon-de-planejamento-128099137.jpg))
+# AUGH SNORING BOT 
+✨A bot to have a true moment of complicity and friendship !✨
+## About
+  <img align="center" src="https://thumbs.dreamstime.com/b/emoticon-de-planejamento-128099137.jpg" width="200">
+  Description to come...
